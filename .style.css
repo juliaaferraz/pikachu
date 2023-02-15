@@ -1,0 +1,25 @@
+*{ 
+    margin: 40;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 100px 1fr 50px;
+    padding: 70x 70x 24x 70x;
+    background-color: rgb(red, green, blue);
+ 
+}
+
+header{
+    background-color: salmon;
+}
+
+main{
+    background-color: skyblue;
+}
+
+footer{
+    background-color: thistle;
+}
